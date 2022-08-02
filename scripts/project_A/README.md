@@ -4,3 +4,6 @@ Seeds must be determined before crawling
 All data will be ranked base on price, location, 
 
 # Test Jenkins #3
+ngrok
+jenkin
+docker
